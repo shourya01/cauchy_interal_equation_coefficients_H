@@ -3,7 +3,7 @@ close all
 clc
 
 % MODIFY THIS
-deg = 25;
+deg = 30;
 
 % CODE BELOW THIS LINE
 
